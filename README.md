@@ -64,3 +64,12 @@ All of the datasets contain annotated bounding boxes.**
 ### Maize Tassels Counting（MTDC）
 [___Baidu Drive___](https://github.com/Ye-Sk/MrMT)  
 ——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+
+# Citation
+~~~
+@article{ye2023PlantBiCNet,  
+  title={PlantBiCNet: A New Paradigm in Plant Science with Bi-directional Concatenation Neural Network for Detection and Counting},  
+  author={Ye, Jianxiong and Yu, Zhenghong and Wang, Yangxu and Lu, Dunlu and Zhou, Huabing}, 
+  year={2023}
+}
+~~~
