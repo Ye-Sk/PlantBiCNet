@@ -38,3 +38,7 @@
 |PlantBiCNet-Lite|0.866|0.823|0.871|28.79|43.22|9.7%|14.5%|0.9319|
 |PlantBiCNet|0.893|0.876|0.924|25.33|32.16|8.5%|10.8%|0.9593|  
 
+# Downloads
+<div align=center>
+<img src="https://github.com/Ye-Sk/PlantBiCNet/blob/master/dataset.png"/>  
+</div> 
