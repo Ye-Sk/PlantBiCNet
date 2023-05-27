@@ -1,4 +1,4 @@
-# PlantBiCNet
+# PlantBiCNet and PlantBiCNet-Lite
 <div align=center>
 <img src="https://github.com/Ye-Sk/PlantBiCNet/blob/master/linear.png"/>  
 </div>   
