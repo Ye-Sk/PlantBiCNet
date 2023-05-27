@@ -1,4 +1,4 @@
 # PlantBiCNet
 <div align=center>
-<img src="https://github.com/Ye-Sk/MrMT/blob/master/LFANet-counting.png"/>
+<img src="https://github.com/Ye-Sk/PlantBiCNet/blob/master/linear.png"/>
 </div>   
