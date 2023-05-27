@@ -65,6 +65,10 @@ All of the datasets contain annotated bounding boxes.**
 [___Baidu Drive___](https://pan.baidu.com/s/1uBCdXdTM1l2ttQhvseMavA)  
 ——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
 
+### Rape Flower Rectangular Box Labeling（RFRB）
+[___Baidu Drive___](https://pan.baidu.com/s/1uBCdXdTM1l2ttQhvseMavA)  
+——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+
 # Citation
 ~~~
 @article{ye2023PlantBiCNet,  
