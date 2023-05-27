@@ -61,7 +61,7 @@ All of the datasets contain annotated bounding boxes.**
 [___Baidu Drive___](https://github.com/Ye-Sk/MrMT)  
 ——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
 
-### Maize Tassels Counting（MTDC）
+### Maize Tassels Detection and Counting（MTDC）
 [___Baidu Drive___](https://github.com/Ye-Sk/MrMT)  
 ——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
 
