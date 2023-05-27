@@ -1,12 +1,15 @@
 
 
 # Dataset download
-### Example images from 6 plant detection and counting datasets.
 <div align=center>
 <img src="https://github.com/Ye-Sk/PlantBiCNet/blob/master/dataset.png"/>   
-</div>   
+</div>  
 
-## I have reorganized six challenging small-scale plant detection and counting datasets.
+#### Example images from 6 plant detection and counting datasets.
+
+##  
+* I have reorganized six challenging small-scale plant detection and counting datasets.   
+  All of the datasets contain annotated bounding boxes.
 ### Multi-regional Maize Tassels（MrMT）
 [___Baidu Drive___](https://github.com/Ye-Sk/MrMT)
 
