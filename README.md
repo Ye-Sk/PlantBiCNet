@@ -51,23 +51,23 @@ All of the datasets contain annotated bounding boxes.**
 
 ### Wheat Ears Detection（WED）
 [___Baidu Drive___](https://pan.baidu.com/s/16cjcCZ-TL5gXvXXcBKdWOw)  
-——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+——The credit of this dataset belongs to [this repository](https://github.com/simonMadec/Wheat-Ears-Detection-Dataset).
 
 ### Diverse Rice Panicle Detection（DRPD）
 [___Baidu Drive___](https://pan.baidu.com/s/174M_9LOmHdWi7cuu0dsySg)  
-——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+——The credit of this dataset belongs to [this repository](https://github.com/changcaiyang/Panicle-AI).
 
 ### Cotton Boll Detection（CBD）
 [___Baidu Drive___](https://pan.baidu.com/s/1EEyRuy_ESVtE7_2yrg14Mw?)  
-——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/PlantBiCNet).
 
 ### Maize Tassels Detection and Counting（MTDC）
 [___Baidu Drive___](https://pan.baidu.com/s/18mEPbNWbsyGAIJAAd1rReQ)  
-——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+——The credit of this dataset belongs to [this repository](https://github.com/poppinace/mtdc).
 
 ### Rape Flower Rectangular Box Labeling（RFRB）
 [___Baidu Drive___](https://pan.baidu.com/s/1uBCdXdTM1l2ttQhvseMavA)  
-——The credit of this dataset belongs to [this repository](https://github.com/Ye-Sk/MrMT).
+——The credit of this dataset belongs to [this repository](https://github.com/CV-Wang/RapeNet).
 
 # Citation
 ~~~
