@@ -65,7 +65,7 @@ def plot_r2(gt, pd, gtv2, pdv2):
 
     legend = plt.legend(labels=(r"PlantBiCNet: $R^2={0:.4f}$".format(r2),
                        r"PlantBiCNet-Lite: $R^2={0:.4f}$".format(r2v2)),
-               loc=(0.04, 0.77),  # 控制位置
+               loc=(0.04, 0.77),
                fancybox=True, borderpad=0.8, fontsize=11, labelspacing=0.65)
 
     for line in legend.get_lines():
