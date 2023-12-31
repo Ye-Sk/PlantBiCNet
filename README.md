@@ -4,7 +4,7 @@
 </div>   
 
 **The resources in this repository are implemented in this paper :**  
-[___PlantBiCNet: A New Paradigm in Plant Science with Bi-directional Concatenation Neural Network for Detection and Counting___](https://v.qq.com/x/cover/mpqzavrt4qvdstw/d00148c52qt.html?ptag=360kan.cartoon.free)
+[___PlantBiCNet: A New Paradigm in Plant Science with Bi-directional Concatenation Neural Network for Detection and Counting___](https://www.sciencedirect.com/science/article/pii/S0952197623018882)
 
 # Main results
 ### Quantitative results of MrMT dataset
@@ -57,9 +57,13 @@ All of the datasets contain annotated bounding boxes.*
 
 # Citation
 ~~~
-@article{ye2023PlantBiCNet,  
-  title={PlantBiCNet: A New Paradigm in Plant Science with Bi-directional Concatenation Neural Network for Detection and Counting},  
-  author={Ye, Jianxiong and Yu, Zhenghong and Wang, Yangxu and Lu, Dunlu and Zhou, Huabing}, 
-  year={2023}
+@article{YE2024107704,
+title={PlantBiCNet: A new paradigm in plant science with bi-directional cascade neural network for detection and counting},
+author={Jianxiong Ye and Zhenghong Yu and Yangxu Wang and Dunlu Lu and Huabing Zhou},
+journal={Engineering Applications of Artificial Intelligence},
+volume={130},
+pages={107704},
+year={2024},
+doi={10.1016/j.engappai.2023.107704}
 }
 ~~~
