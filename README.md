@@ -59,12 +59,12 @@ All of the datasets contain annotated bounding boxes.*
 #### If you find this work or code useful for your research, please cite this, Thank you!🤗
 ~~~
 @article{YE2024107704,
-title={PlantBiCNet: A new paradigm in plant science with bi-directional cascade neural network for detection and counting},
-author={Jianxiong Ye and Zhenghong Yu and Yangxu Wang and Dunlu Lu and Huabing Zhou},
-journal={Engineering Applications of Artificial Intelligence},
-volume={130},
-pages={107704},
-year={2024},
-doi={10.1016/j.engappai.2023.107704}
+  title={PlantBiCNet: A new paradigm in plant science with bi-directional cascade neural network for detection and counting},
+  author={Jianxiong Ye and Zhenghong Yu and Yangxu Wang and Dunlu Lu and Huabing Zhou},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={130},
+  pages={107704-107722},
+  year={2024},
+  doi={10.1016/j.engappai.2023.107704}
 }
 ~~~
