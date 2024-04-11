@@ -58,7 +58,7 @@ All of the datasets contain annotated bounding boxes.*
 ## Citation
 #### If you find this work or code useful for your research, please cite those, Thank you!🤗
 ~~~
-@article{YE2024107704,
+@ARTICLE{YE2024107704,
   title={PlantBiCNet: A new paradigm in plant science with bi-directional cascade neural network for detection and counting},
   author={Ye, Jianxiong and Yu, Zhenghong and Wang, Yangxu and Lu, Dunlu and Zhou, Huabing},
   journal={Engineering Applications of Artificial Intelligence},
@@ -69,7 +69,7 @@ All of the datasets contain annotated bounding boxes.*
 }
 ~~~
 ~~~
-@article{YE20231004,  
+@ARTICLE{YE20231004,  
   title={WheatLFANet: In-field detection and counting of wheat heads with high-real-time global regression network},  
   author={Ye, Jianxiong and Yu, Zhenghong and Wang, Yangxu and Lu, Dunlu and Zhou, Huabing},  
   journal={Plant Methods},  
@@ -78,6 +78,7 @@ All of the datasets contain annotated bounding boxes.*
   year={2023},  
   doi={10.1186/s13007-023-01079-x}  
 }
+~~~
 ~~~
 @ARTICLE{10287390,
   author={Lu, Dunlu and Ye, Jianxiong and Wang, Yangxu and Yu, Zhenghong},
