@@ -81,9 +81,9 @@ All of the datasets contain annotated bounding boxes.*
 ~~~
 ~~~
 @ARTICLE{10287390,
+  title={Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes}, 
   author={Lu, Dunlu and Ye, Jianxiong and Wang, Yangxu and Yu, Zhenghong},
   journal={IEEE Access}, 
-  title={Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes}, 
   year={2023},
   volume={11},
   pages={116196-116205},
